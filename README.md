@@ -2,7 +2,7 @@
 
 This is the standalone version of dbCAN annotation tool for automated CAZyme annotation (known as run_dbCAN.py), written by Le Huang and Tanner Yohe.
 
-If you want to use our dbCAN2 webserver, please go to http://cys.bios.niu.edu/dbCAN2/.
+If you want to use our dbCAN2 webserver, please go to http://bcb.unl.edu/dbCAN2/.
 
 If you use dbCAN standalone tool or/and our web server for publication, please cite us:
 
