@@ -53,7 +53,7 @@ Rewritten by Huang Le in the Zhang Lab at NKU; V1 version was written by Tanner 
 Last updated 09/05/19
 
 ### v3 updating info
--updated CAZy, dbCAN and Hotpep databases with new CAZyme families released by [CAZy](http://www.cazy.org). You can download them from our 
+- updated CAZy, dbCAN and Hotpep databases with new CAZyme families released by [CAZy](http://www.cazy.org). You can download them [here](http://bcb.unl.edu/dbCAN2/download/).
 
 ### v2 updates
 - More user friendly
