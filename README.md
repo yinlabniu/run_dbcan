@@ -81,7 +81,7 @@ P.S.: You do not need to download `CGCFinder`, `Hotpep-Python` and `hmmscan-pars
 
 [hmmscan-parser](https://github.com/linnabrown/run_dbcan/blob/master/hmmscan-parser.py)--This is included in dbCAN2.
 
-[Hotpep-Python](https://github.com/linnabrown/run_dbcan/tree/master/Hotpep)--This newest version is included in dbCAN2.
+[Hotpep-Python](https://github.com/yinlabniu/run_dbcan/tree/master/Hotpep)--This newest version is included in dbCAN2.
 
 [signalp](http://www.cbs.dtu.dk/services/SignalP/)--please download and install if you need.
 
