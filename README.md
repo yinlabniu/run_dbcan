@@ -24,7 +24,7 @@ eprint = {/oup/backfile/content_public/journal/nar/46/w1/10.1093_nar_gky418/1/gk
 }
 ```
 
-If you want to use pre-computed bacterial CAZyme sequences/annotations directly, please go to http://cys.bios.niu.edu/dbCAN_seq/ and cite us:
+If you want to use pre-computed bacterial CAZyme sequences/annotations directly, please go to http://bcb.unl.edu/dbCAN_seq/ and cite us:
 
 ***Le Huang**, Han Zhang, Peizhi Wu, Sarah Entwistle, Xueqiong Li, Tanner Yohe, Haidong Yi, Zhenglu Yang, Yanbin Yin;
 dbCAN-seq: a database of carbohydrate-active enzyme (CAZyme) sequence and annotation, Nucleic Acids Research,
@@ -97,7 +97,7 @@ P.S.: You do not need to download `CGCFinder`, `Hotpep-Python` and `hmmscan-pars
 
 [PPR]:included in Hotpep
 
-[dbCAN-HMMdb-V8.txt](http://bcb.unl.edu/dbCAN2/download/Databases/dbCAN-HMMdb-V8.txt)--First use `mv dbCAN-HMMdb-V7.txt dbCAN.txt`, then use `hmmpress dbCAN.txt`
+[dbCAN-HMMdb-V8.txt](http://bcb.unl.edu/dbCAN2/download/Databases/dbCAN-HMMdb-V8.txt)--First use `mv dbCAN-HMMdb-V8.txt dbCAN.txt`, then use `hmmpress dbCAN.txt`
 
 [tcdb.fa](http://bcb.unl.edu/dbCAN2/download/Databases/tcdb.fa)--use `diamond makedb --in tcdb.fa -d tcdb`
 
