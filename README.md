@@ -23,7 +23,7 @@
 
 ## News and Updates
 
-* [2025.4.22] 🔥 This `run_dbcan` project is not maintained under this repo and has been moved to [bcb-unl/run_dbcan](https://github.com/bcb-unl/run_dbcan). This repo will be archived and go to read-only mode.
+* [2025.4.22] 🔥 This `run_dbcan` project is no longer maintained under this repo and has been moved to [bcb-unl/run_dbcan](https://github.com/bcb-unl/run_dbcan). This repo is now archived and in read-only mode.
 
 
 ## Introduction
